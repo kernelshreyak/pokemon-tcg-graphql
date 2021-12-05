@@ -14,6 +14,15 @@ query($name: String!, $pageSize: Int){
   }
 }
 ```
+
+<br />
+
+```json
+{
+  "name": "Charizard-GX",
+  "pageSize": 5
+}
+```
 <br />
 <br />
 
